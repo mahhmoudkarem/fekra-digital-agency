@@ -1,0 +1,12 @@
+/* FEKRA Digital Agency — Brand Colors */
+:root {
+  --fekra-black:      #0B0B0F; /* Deep Black — Primary */
+  --fekra-purple:     #7C3AED; /* Vibrant Purple — Primary */
+  --fekra-purple-lt:  #A855F7; /* Light Purple — Accent */
+  --fekra-lavender:   #EDE9FE; /* Soft Lavender — Background */
+  --fekra-offwhite:   #F8FAFC; /* Off White — Background */
+
+  --fekra-gradient: linear-gradient(45deg, #7C3AED 0%, #A855F7 100%);
+  --fekra-font: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  --fekra-tracking-logo: 0.42em; /* DIGITAL AGENCY lockup tracking */
+}

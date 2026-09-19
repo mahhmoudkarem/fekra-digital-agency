@@ -1,0 +1,20 @@
+{
+  "name": "FEKRA Digital Agency",
+  "tagline": "Turning Ideas Into Digital Solutions.",
+  "keywords": ["Ideas", "Design", "Develop", "Deliver"],
+  "colors": {
+    "deepBlack":    { "hex": "#0B0B0F", "role": "primary" },
+    "vibrantPurple":{ "hex": "#7C3AED", "role": "primary" },
+    "lightPurple":  { "hex": "#A855F7", "role": "accent" },
+    "softLavender": { "hex": "#EDE9FE", "role": "background" },
+    "offWhite":     { "hex": "#F8FAFC", "role": "background" }
+  },
+  "gradient": { "from": "#7C3AED", "to": "#A855F7", "angle": "45deg" },
+  "typography": {
+    "family": "Montserrat",
+    "weights": ["Light 300", "Regular 400", "Medium 500", "SemiBold 600", "Bold 700"],
+    "logoTagline": { "weight": 500, "letterSpacing": "0.42em", "transform": "uppercase" }
+  },
+  "clearSpace": "X = 2x logo stem width on all sides",
+  "minimumSize": { "horizontalLockup": "120px wide / 30mm print", "iconMark": "16px" }
+}
